@@ -1,0 +1,1 @@
+{"loggedin":true,"id":773767,"username":"PhoenixYTs","offerpoints":10000000,"role":"user","discordtoken":"","referralpoints":100000000000000000000000,"twofa":false,"csrf":"5f2759da.e74cd69bb307bc80ce33e6d0679743f2f981fcd1e0440bd0ef04ac372f4b4239","reseller":false}
